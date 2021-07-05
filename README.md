@@ -5,7 +5,7 @@ Implementation improvements, different approaches and new solutions are welcomed
 
 ## Categories
 
-* [String](./categories/content.md)
+* [String](./categories/string/README.md)
 
 ## Contributing
 
